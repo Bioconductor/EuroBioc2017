@@ -4,7 +4,7 @@
 
 * Conference webpage: https://lgatto.github.io/EuroBioc2017/
 * Where: [Betty and Gordon Moore Library](http://moore.libraries.cam.ac.uk/location-maps), University of Cambridge, UK
-* When: Conference 4 - 5 December 2017 - Special interest group sessions 3 December
+* When: Conference 5 - 6 December 2017 - Special interest group sessions 4 December
 * What: invited talks, flashlight presentations, special interest group sessions.
 * On twitter: [#EuroBioC2017](https://twitter.com/search?q=%23EuroBioC2017)
 
@@ -23,10 +23,10 @@ or are interested in using Bioconductor. The goals are to:
 * keep contributors up to speed with the latest developments
 * coordinate any related efforts.
 
-It will be a 3 days event. The main conference will be on Tuesday 4
-and Wednesday 5 December 2017. The conference will feature invited
+It will be a 3 days event. The main conference will be on Tuesday 5
+and Wednesday 6 December 2017. The conference will feature invited
 talks as well as contributed flashlight sessions. We will also have
-special interest group (SIG) sessions on Monday 3rd December, in the
+special interest group (SIG) sessions on Monday 4th December, in the
 afternoon (see details below).
 
 ## Code of conduct
@@ -46,11 +46,11 @@ Will be open soon.
 
 Tentative schedule, subject to changes.
 
-### Mon 3 Dec: SIG sessions
+### Mon 4 Dec: SIG sessions
 
 From 1pm to 5pm. 
 
-### Tue 4 Dec: Main conference
+### Tue 5 Dec: Main conference
 
 | 9:00 - 9:15   | Registration              |
 | 09:15 - 09:30 | Welcome and introduction  |
@@ -61,7 +61,7 @@ From 1pm to 5pm.
 Conference dinner in Robinson college at 19:30, which is a short walk
 from the conference venue.
 
-### Tue 5 Dec: Main conference
+### Wed 6 Dec: Main conference
 
 | 9:00 - 12:30  | Conference                |
 | 12:30 - 13:30 | Lunch                     |
@@ -100,10 +100,11 @@ in these sessions in order to keep things flowing:
 Information on how to get to Cambridge can be found
 [here](http://www.visitcambridge.org/visitor-information/how-to-get-here).
 
-The meeting itself is taking place in the Centre for Mathematical
-Sciences, the full address of which is:
+The meeting itself is taking place in the [Betty and Gordon Moore
+Library](http://moore.libraries.cam.ac.uk/location-maps), Centre for
+Mathemtical Sciences, at the University of Cambridge, UK., the full address of which is:
 
-> Centre for Mathematical Sciences,  
+> Betty and Gordon Moore library,  
 > Wilberforce Road,  
 > Cambridge,  
 > CB3 0WA
@@ -120,15 +121,9 @@ map below.
 
 ## Accomodation
 
-There is no specific hotel reserved for the meeting, but Cambridge is
-a small city so most accommodation is viable by taxi or bus.
+A number of rooms have been reserved in [Robinson College](https://www.robinson.cam.ac.uk/about-robinson/accommodation), which is a few minutes walk from the conference venue. Details on how to reserve a room to follow....
 
-Some of the university colleges have rooms that can be rented.  The
-full list of available rooms can be found at the following site:
-
-* http://www.universityrooms.com/en/city/cambridge/home
-
-There are a number of hotels to the north of the city that are both
+Otherwise, there are a number of hotels to the north of the city that are both
 fairly cheap should be relatively easy to travel to the venue
 from. These include:
 
