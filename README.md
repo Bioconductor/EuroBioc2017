@@ -125,7 +125,7 @@ a small city so most accommodation is viable by taxi or bus.
 Some of the university colleges have rooms that can be rented.  The
 full list of available rooms can be found at the following site:
 
-   http://www.universityrooms.com/en/city/cambridge/home
+* http://www.universityrooms.com/en/city/cambridge/home
 
 There are a number of hotels to the north of the city that are both
 fairly cheap should be relatively easy to travel to the venue
