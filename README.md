@@ -6,7 +6,7 @@ output:
    toc_float: true
 ---
 
-# European Bioconductor Meeting 2017
+## European Bioconductor Meeting 2017
 
 * Conference webpage: [https://Bioconductor.github.io/EuroBioc2017/](https://Bioconductor.github.io/EuroBioc2017/)
 * Where: [Betty and Gordon Moore Library](http://moore.libraries.cam.ac.uk/location-maps), University of Cambridge, UK
