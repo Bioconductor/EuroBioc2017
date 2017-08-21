@@ -1,6 +1,12 @@
-# European Bioconductor Meeting 2017
+---
+Title: 'European Bioconductor Meeting 2017'
+output:
+  html_document:
+   toc: true
+   toc_float: true
+---
 
-## TL;DR
+# European Bioconductor Meeting 2017
 
 * Conference webpage: [https://Bioconductor.github.io/EuroBioc2017/](https://Bioconductor.github.io/EuroBioc2017/)
 * Where: [Betty and Gordon Moore Library](http://moore.libraries.cam.ac.uk/location-maps), University of Cambridge, UK
@@ -46,12 +52,13 @@ Will be open soon.
 
 Tentative schedule, subject to changes.
 
-### Mon 4 Dec: SIG sessions
+| Mon 4 Dec  |              |
+|------------|--------------|
+| 1pm to 5pm | SIG sessions | 
 
-From 1pm to 5pm. 
 
-### Tue 5 Dec: Main conference
-
+| Tue 5 Dec     |                           |
+|---------------|---------------------------|
 | 9:00 - 9:15   | Registration              |
 | 09:15 - 09:30 | Welcome and introduction  |
 | 9:30 - 12:30  | Conference                |
@@ -61,14 +68,32 @@ From 1pm to 5pm.
 Conference dinner in Robinson college at 19:30, which is a short walk
 from the conference venue.
 
-### Wed 6 Dec: Main conference
-
+| Wed 6 Dec     |                           |
+|---------------|---------------------------|
 | 9:00 - 12:30  | Conference                |
 | 12:30 - 13:30 | Lunch                     |
 | 13:30 - 15:30 | Conference                |
 | 15:30 - 16:00 | Wrap-up and closing       |
 
 ## Special Interest Groups
+
+We invite participants to form groups dedicated to discuss or work on
+topics of interest on Monday afternoon. We have booked rooms for the
+respective groups. The topics are set by one group leader, and are
+advertised in advance of the event on the conference page. 
+
+To create a special interest
+group,
+[open an issue](https://github.com/Bioconductor/EuroBioc2017/issues)
+describing the topic. The issue title should start with `SIG:`
+followed by a short but descriptive title. Describe the topic in the
+main body of the issue in as much detail as necessary, including the
+name of the topic leader, possible or desired outputs (could be code,
+a piece of documentation, or general discussion), ... Any interested
+participants are invited to use the issue to ask questions and/or
+express their interest in participating.
+
+
 
 ## Flashlight talks
 
@@ -91,9 +116,9 @@ in these sessions in order to keep things flowing:
 
 ## Organising committee
 
-- Mark Dunning `<Mark.DunningATcruk.cam.ac.uk>`
-- Laurent Gatto `<lg390ATcam.ac.uk>`
-- Aaron Lun `<Aaron.LunATcruk.cam.ac.uk>`
+- Mark Dunning `<Mark.Dunning_AT_cruk.cam.ac.uk>`
+- Laurent Gatto `<lg39_AT_cam.ac.uk>`
+- Aaron Lun `<Aaron.Lun_AT_cruk.cam.ac.uk>`
 
 ## Meeting locations
 
