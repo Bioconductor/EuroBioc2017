@@ -21,15 +21,15 @@ the [Betty and Gordon Moore
 Library](http://moore.libraries.cam.ac.uk/location-maps), Centre for
 Mathematical Sciences, at the University of Cambridge, UK.
 
-The meeting is aimed at biologists, bioinformaticians, programmers,
-software engineers who use or contribute to the Bioconductor project,
+The meeting is aimed at biologists, bioinformaticians, programmers
+and software engineers who use or contribute to the Bioconductor project,
 or are interested in using Bioconductor. The goals are to:
 
 * foster the exchange of technical expertise
 * keep contributors up to speed with the latest developments
 * coordinate any related efforts.
 
-It will be a 3 days event. The main conference will be on Tuesday 5
+This meeting will be a 3-day event. The main conference will be on Tuesday 5
 and Wednesday 6 December 2017. The conference will feature invited
 talks as well as contributed flashlight sessions. We will also have
 special interest group (SIG) sessions on Monday 4th December, in the
@@ -52,7 +52,7 @@ poster sessions, social activities, or online.
 * Registration closes: 1 November 2017
 * Confirmation emails: 6 November 2017
 
-A confirmation email will be send indicating if your flashlight talk
+A confirmation email will be sent indicating if your flashlight talk
 was selected. In case of over-registration, the organisers will select
 participants. Priority will given to attendants that present
 flashlight talks or active members in the Bioconductor community.
@@ -116,7 +116,7 @@ express their interest in participating.
 
 **Reporting** At the end of the SIG session, we ask that each group
 prepares a short summary of their session, which will be coordinated
-by a chair (which may or may not be the person that suggested the
+by a chair (who may or may not be the person that suggested the
 topic) and a scribe. These outputs will be presented and discussed
 during the conference.
 
@@ -128,13 +128,13 @@ encountered.  Each talk has been allotted 10 minutes and presenters
 should aim for approximately 6 slides.  The following rules will apply
 in these sessions in order to keep things flowing:
 
-* There will be a warning at 9 minutes
+* There will be a warning at 9 minutes.
 * Flashlight talks will be interrupted (possibly mid-syllable) at the
   10 minute mark regardless of how many slides the speaker has left.
 * At this point the next talk will be set up on the computer, allowing
   the next speaker to get going immediately that their time
   begins. This means that the computer will not be available during
-  question(s)
+  question(s).
 * Time has been allowed for one question per talk. If the first
   question is exceedingly brief it is at the chair's discretion as to
   whether a second question will be taken.
@@ -174,9 +174,9 @@ map below.
 A number of rooms have been reserved
 in
 [Robinson College](https://www.robinson.cam.ac.uk/about-robinson/accommodation),
-which is a few minutes walk from the conference venue. Details on how
-to reserve a room, including discount code will be send in a
-confirmation email.
+which is a few minutes walk from the conference venue. Details on how to
+reserve a room (including a discount code for this conference) will be sent in
+a confirmation email.
 
 Otherwise, there are a number of hotels to the north of the city that
 are both fairly cheap should be relatively easy to travel to the venue
@@ -197,7 +197,7 @@ close to the Uni 4 bus route that stops outside the conference venue
 
 ## Previous meetings
 
-If you haven't attended any European Bioc meeting before, you can get
+If you have not previously attended any European Bioconductor meetings, you can get
 an idea about the topics and talks by looking at the programmes from
 the [2016](http://www.scicore.ch/events/eurobioc2016/)
 and [2015](https://sites.google.com/site/eurobioc2015/) editions.
@@ -209,5 +209,5 @@ and [2015](https://sites.google.com/site/eurobioc2015/) editions.
 <img alt="SOUND project" src="./img/sound.png">
 <img alt="CRUK Cambridge Institute" src="./img/CRUK.png">
 
-If you are interested in support this meeting, please contact the
+If you are interested in supporting this meeting, please contact the
 organisers.
