@@ -35,7 +35,7 @@ talks as well as contributed flashlight sessions. We will also have
 special interest group (SIG) sessions on Monday 4th December, in the
 afternoon (see details below).
 
-The meeting is free.
+
 
 ## Code of conduct
 
@@ -48,14 +48,16 @@ poster sessions, social activities, or online.
 
 ## Registration
 
+Registation for the conference is **free**
+
 * Registration opens: 1 September 2017 
 * Registration closes: 1 November 2017
 * Confirmation emails: 6 November 2017
 
 A confirmation email will be sent indicating if your flashlight talk
 was selected. In case of over-registration, the organisers will select
-participants. Priority will given to attendants that present
-flashlight talks or active members in the Bioconductor community.
+participants. Priority will given to applicants that offer to present
+flashlight talks, or are active members in the Bioconductor community.
 
 ## Schedule
 
@@ -76,7 +78,8 @@ Informal get-together in a pub.
 | 13:30 - 17:30 | Conference                |
 
 Conference dinner in Robinson college at 19:30, which is a short walk
-from the conference venue.
+from the conference venue. The dinner is provided for free for conference participants
+
 
 | Wed 6 Dec     |                           |
 |---------------|---------------------------|
@@ -92,7 +95,7 @@ from the conference venue.
   Park Cancer Institute and Bioconductor project.
 * [Sara-Jane Dunn](https://www.microsoft.com/en-us/research/people/sarajand/),
   Microsoft Research.
-* Ines de Santiago, Seven Bridges
+* Ines de Santiago, Seven Bridges Genomics
 
 
 ## Special Interest Groups
