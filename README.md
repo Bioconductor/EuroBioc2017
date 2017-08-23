@@ -89,11 +89,14 @@ describing the topic. The issue title should start with `SIG:`
 followed by a short but descriptive title. Describe the topic in the
 main body of the issue in as much detail as necessary, including the
 name of the topic leader, possible or desired outputs (could be code,
-a piece of documentation, or general discussion), ... Any interested
-participants are invited to use the issue to ask questions and/or
-express their interest in participating.
+a piece of documentation, or general discussion), ... and possible
+outcomes. Any interested participants are invited to use the issue to
+ask questions and/or express their interest in participating.
 
-
+At the end of the SIG session, we would appreciate if the group could
+prepare a short summary of your session. Depending on enthusiasm and
+if time allows, we would like to share and discuss the SIG material
+during the conference.
 
 ## Flashlight talks
 
