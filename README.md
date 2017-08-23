@@ -19,7 +19,7 @@ output:
 The 2017 edition of the European Bioconductor meeting will be held in
 the [Betty and Gordon Moore
 Library](http://moore.libraries.cam.ac.uk/location-maps), Centre for
-Mathemtical Sciences, at the University of Cambridge, UK.
+Mathematical Sciences, at the University of Cambridge, UK.
 
 The meeting is aimed at biologists, bioinformaticians, programmers,
 software engineers who use or contribute to the Bioconductor project,
@@ -35,6 +35,8 @@ talks as well as contributed flashlight sessions. We will also have
 special interest group (SIG) sessions on Monday 4th December, in the
 afternoon (see details below).
 
+The meeting is free.
+
 ## Code of conduct
 
 Bioconductor is built on the free and open exchange of scientific
@@ -46,7 +48,14 @@ poster sessions, social activities, or online.
 
 ## Registration
 
-Will be open soon.
+* Registration opens: 1 September 2017 
+* Registration closes: 1 November 2017
+* Confirmation emails: 6 November 2017
+
+A confirmation email will be send indicating if your flashlight talk
+was selected. In case of over-registration, the organisers will select
+participants. Priority will given to attendants that present
+flashlight talks or active members in the Bioconductor community.
 
 ## Schedule
 
@@ -56,6 +65,7 @@ Tentative schedule, subject to changes.
 |------------|--------------|
 | 1pm to 5pm | SIG sessions | 
 
+Informal get-together in a pub. 
 
 | Tue 5 Dec     |                           |
 |---------------|---------------------------|
@@ -75,12 +85,22 @@ from the conference venue.
 | 13:30 - 15:30 | Conference                |
 | 15:30 - 16:00 | Wrap-up and closing       |
 
+
+## Confirmed speakers
+
+* [Martin Morgan](https://www.roswellpark.edu/martin-morgan), Roswell
+  Park Cancer Institute and Bioconductor project.
+* [Sara-Jane Dunn](https://www.microsoft.com/en-us/research/people/sarajand/),
+  Microsoft Research.
+* Ines de Santiago, Seven Bridges
+
+
 ## Special Interest Groups
 
 We invite participants to form groups dedicated to discuss or work on
 topics of interest on Monday afternoon. We have booked rooms for the
 respective groups. The topics are set by one group leader, and are
-advertised in advance of the event on the conference page. 
+advertised in advance of the event on the conference page.
 
 To create a special interest
 group,
@@ -88,14 +108,16 @@ group,
 describing the topic. The issue title should start with `SIG:`
 followed by a short but descriptive title. Describe the topic in the
 main body of the issue in as much detail as necessary, including the
-name of the topic leader, possible or desired outputs (could be code,
-a piece of documentation, or general discussion), ... and possible
-outcomes. Any interested participants are invited to use the issue to
-ask questions and/or express their interest in participating.
+name of the topic leader, a chair and a scribe (to report, see below),
+possible or desired outputs (could be code, a piece of documentation,
+or general discussion), ... and possible outcomes. Any interested
+participants are invited to use the issue to ask questions and/or
+express their interest in participating.
 
-At the end of the SIG session, we would appreciate if the group could
-prepare a short summary of your session. Depending on enthusiasm and
-if time allows, we would like to share and discuss the SIG material
+**Reporting** At the end of the SIG session, we ask that each group
+prepares a short summary of their session, which will be coordinated
+by a chair (which may or may not be the person that suggested the
+topic) and a scribe. These outputs will be presented and discussed
 during the conference.
 
 ## Flashlight talks
@@ -130,7 +152,7 @@ Information on how to get to Cambridge can be found
 
 The meeting itself is taking place in the [Betty and Gordon Moore
 Library](http://moore.libraries.cam.ac.uk/location-maps), Centre for
-Mathemtical Sciences, at the University of Cambridge, UK., the full address of which is:
+Mathematical Sciences, at the University of Cambridge, UK., the full address of which is:
 
 > Betty and Gordon Moore library,  
 > Wilberforce Road,  
@@ -147,12 +169,17 @@ The conference dinner will be in Robinson College.
 They are within five minutes walk of each other and are shown on the
 map below.
 
-## Accomodation
+## Accommodation
 
-A number of rooms have been reserved in [Robinson College](https://www.robinson.cam.ac.uk/about-robinson/accommodation), which is a few minutes walk from the conference venue. Details on how to reserve a room to follow....
+A number of rooms have been reserved
+in
+[Robinson College](https://www.robinson.cam.ac.uk/about-robinson/accommodation),
+which is a few minutes walk from the conference venue. Details on how
+to reserve a room, including discount code will be send in a
+confirmation email.
 
-Otherwise, there are a number of hotels to the north of the city that are both
-fairly cheap should be relatively easy to travel to the venue
+Otherwise, there are a number of hotels to the north of the city that
+are both fairly cheap should be relatively easy to travel to the venue
 from. These include:
 
 * The Holiday Inn (http://www.hicambridgehotel.co.uk/). You can use
@@ -172,10 +199,15 @@ close to the Uni 4 bus route that stops outside the conference venue
 
 If you haven't attended any European Bioc meeting before, you can get
 an idea about the topics and talks by looking at the programmes from
-the [2016](http://www.scicore.ch/events/eurobioc2016/) and
-[2015](https://sites.google.com/site/eurobioc2015/) editions.
+the [2016](http://www.scicore.ch/events/eurobioc2016/)
+and [2015](https://sites.google.com/site/eurobioc2015/) editions.
 
 ## Sponsors
 
+<!-- rescale images so their have a height of 70px -->
 
+<img alt="SOUND project" src="./img/sound.png">
+<img alt="CRUK Cambridge Institute" src="./img/CRUK.png">
 
+If you are interested in support this meeting, please contact the
+organisers.
