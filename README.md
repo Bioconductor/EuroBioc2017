@@ -29,35 +29,24 @@ or are interested in using Bioconductor. The goals are to:
 * keep contributors up to speed with the latest developments
 * coordinate any related efforts.
 
-This meeting will be a 3-day event. The main conference will be on Tuesday 5
+This will be a 3-day event. The main conference will be on Tuesday 5
 and Wednesday 6 December 2017. The conference will feature invited
 talks as well as contributed flashlight sessions. We will also have
 special interest group (SIG) sessions on Monday 4th December, in the
 afternoon (see details below).
 
-
-
-## Code of conduct
-
-Bioconductor is built on the free and open exchange of scientific
-ideas, and the contributions of our diverse user community. In this
-spirit, EuroBioc 2017 is dedicated to providing a harassment-free
-conference experience for everyone. Harassment of any form (verbal,
-physical, sexual, or other) will not be tolerated in talks, workshops,
-poster sessions, social activities, or online.
-
 ## Registration
 
-Registation for the conference is **free**
+Registation for the conference is **free**.
 
 * Registration opens: 1 September 2017 
 * Registration closes: 1 November 2017
 * Confirmation emails: 6 November 2017
 
-A confirmation email will be sent indicating if your flashlight talk
-was selected. In case of over-registration, the organisers will select
-participants. Priority will given to applicants that offer to present
-flashlight talks, or are active members in the Bioconductor community.
+A confirmation email will be sent indicating if your registration was
+successful. In the case of over-registration, the organisers will select
+participants. Priority will given to applicants who offer to present
+flashlight talks or are active members in the Bioconductor community.
 
 ## Schedule
 
@@ -95,8 +84,11 @@ from the conference venue. The dinner is provided for free for conference partic
   Park Cancer Institute and Bioconductor project.
 * [Sara-Jane Dunn](https://www.microsoft.com/en-us/research/people/sarajand/),
   Microsoft Research.
-* Ines de Santiago, Seven Bridges Genomics
-
+* Ines de Santiago, Seven Bridges Genomics.
+* [Vincent J.
+Carey](http://www.dfhcc.harvard.edu/insider/member-detail/member/vincent-j-carey-phd/),
+Harvard Medical School.
+* [Kasper D. Hansen](http://www.hansenlab.org/), Johns Hopkins University.
 
 ## Special Interest Groups
 
@@ -113,7 +105,7 @@ followed by a short but descriptive title. Describe the topic in the
 main body of the issue in as much detail as necessary, including the
 name of the topic leader, a chair and a scribe (to report, see below),
 possible or desired outputs (could be code, a piece of documentation,
-or general discussion), ... and possible outcomes. Any interested
+or general discussion), and possible outcomes. Any interested
 participants are invited to use the issue to ask questions and/or
 express their interest in participating.
 
@@ -127,7 +119,12 @@ during the conference.
 
 Flashlights are intended to be short presentations covering a single
 topic e.g. a new package or a particular technical problem you have
-encountered.  Each talk has been allotted 10 minutes and presenters
+encountered. You may submit a title for a flashlight talk during
+the registration process. If your talk is selected, you will be notified 
+in a confirmation email. Selected talks will be advertised in advance
+of the event on the conference page.
+
+Each talk has been allotted 10 minutes and presenters
 should aim for approximately 6 slides.  The following rules will apply
 in these sessions in order to keep things flowing:
 
@@ -142,11 +139,14 @@ in these sessions in order to keep things flowing:
   question is exceedingly brief it is at the chair's discretion as to
   whether a second question will be taken.
 
-## Organising committee
+## Code of conduct
 
-- Mark Dunning `<Mark.Dunning_AT_cruk.cam.ac.uk>`
-- Laurent Gatto `<lg39_AT_cam.ac.uk>`
-- Aaron Lun `<Aaron.Lun_AT_cruk.cam.ac.uk>`
+Bioconductor is built on the free and open exchange of scientific
+ideas, and the contributions of our diverse user community. In this
+spirit, EuroBioc 2017 is dedicated to providing a harassment-free
+conference experience for everyone. Harassment of any form (verbal,
+physical, sexual, or other) will not be tolerated in talks, workshops,
+poster sessions, social activities, or online.
 
 ## Meeting locations
 
@@ -204,6 +204,13 @@ If you have not previously attended any European Bioconductor meetings, you can 
 an idea about the topics and talks by looking at the programmes from
 the [2016](http://www.scicore.ch/events/eurobioc2016/)
 and [2015](https://sites.google.com/site/eurobioc2015/) editions.
+
+## Organising committee
+
+- Mark Dunning `<Mark.Dunning_AT_cruk.cam.ac.uk>`
+- Laurent Gatto `<lg39_AT_cam.ac.uk>`
+- Aaron Lun `<Aaron.Lun_AT_cruk.cam.ac.uk>`
+
 
 ## Sponsors
 
