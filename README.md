@@ -50,13 +50,12 @@ flashlight talks or are active members in the Bioconductor community.
 
 ## Schedule
 
-Tentative schedule, subject to changes.
+This is a tentative schedule that is subject to changes.
 
 | Mon 4 Dec  |              |
 |------------|--------------|
-| 1pm to 5pm | SIG sessions | 
-
-Informal get-together in a pub. 
+| 13:00 - 17:00 | SIG sessions | 
+| 18:00 | Informal get-together in a pub  |
 
 | Tue 5 Dec     |                           |
 |---------------|---------------------------|
@@ -65,10 +64,7 @@ Informal get-together in a pub.
 | 9:30 - 12:30  | Conference                |
 | 12:30 - 13:30 | Lunch                     |
 | 13:30 - 17:30 | Conference                |
-
-Conference dinner in Robinson college at 19:30, which is a short walk
-from the conference venue. The dinner is provided for free for conference participants
-
+| 19:30         | Conference dinner in Robinson College        |
 
 | Wed 6 Dec     |                           |
 |---------------|---------------------------|
@@ -77,6 +73,7 @@ from the conference venue. The dinner is provided for free for conference partic
 | 13:30 - 15:30 | Conference                |
 | 15:30 - 16:00 | Wrap-up and closing       |
 
+The conference dinner on Tuesday evening is provided for free for conference participants.
 
 ## Confirmed speakers
 
@@ -109,7 +106,7 @@ or general discussion), and possible outcomes. Any interested
 participants are invited to use the issue to ask questions and/or
 express their interest in participating.
 
-**Reporting** At the end of the SIG session, we ask that each group
+**Reporting:** At the end of the SIG session, we ask that each group
 prepares a short summary of their session, which will be coordinated
 by a chair (who may or may not be the person that suggested the
 topic) and a scribe. These outputs will be presented and discussed
@@ -162,7 +159,8 @@ Mathematical Sciences, at the University of Cambridge, UK., the full address of 
 > Cambridge,  
 > CB3 0WA
 
-The conference dinner will be in Robinson College.
+The conference dinner will be in Robinson College, which is a short walk
+from the conference venue. 
 
 > Robinson College,  
 > Grange Road,  
@@ -171,6 +169,8 @@ The conference dinner will be in Robinson College.
 
 They are within five minutes walk of each other and are shown on the
 map below.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m20!1m8!1m3!1d4889.954127602008!2d0.1032596!3d52.2074643!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d52.204318199999996!2d0.105528!4m3!3m2!1d52.210200799999996!2d0.10314949999999999!5e0!3m2!1sen!2suk!4v1503576008230" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Accommodation
 
