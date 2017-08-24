@@ -52,28 +52,26 @@ flashlight talks or are active members in the Bioconductor community.
 
 This is a tentative schedule that is subject to changes.
 
-| Mon 4 Dec  |              |
-|------------|--------------|
-| 13:00 - 17:00 | SIG sessions | 
-| 18:00 | Informal get-together in a pub  |
+| Mon 4 Dec     |                                 |
+|---------------|---------------------------------|
+| 13:00 - 17:00 | SIG sessions                    | 
+| 18:00         | Informal get-together in a pub  |
 
-| Tue 5 Dec     |                           |
-|---------------|---------------------------|
-| 9:00 - 9:15   | Registration              |
-| 09:15 - 09:30 | Welcome and introduction  |
-| 9:30 - 12:30  | Conference                |
-| 12:30 - 13:30 | Lunch                     |
-| 13:30 - 17:30 | Conference                |
-| 19:30         | Conference dinner in Robinson College        |
+| Tue 5 Dec     |                                 |
+|---------------|---------------------------------|
+| 09:00 - 09:15 | Registration                    |
+| 09:15 - 09:30 | Welcome and introduction        |
+| 09:30 - 12:30 | Conference                      |
+| 12:30 - 13:30 | Lunch                           |
+| 13:30 - 17:30 | Conference                      |
+| 19:30         | Dinner in Robinson College      |
 
-| Wed 6 Dec     |                           |
-|---------------|---------------------------|
-| 9:00 - 12:30  | Conference                |
-| 12:30 - 13:30 | Lunch                     |
-| 13:30 - 15:30 | Conference                |
-| 15:30 - 16:00 | Wrap-up and closing       |
-
-The conference dinner on Tuesday evening is provided for free for conference participants.
+| Wed 6 Dec     |                                 |
+|---------------|---------------------------------|
+| 09:00 - 12:30 | Conference                      |
+| 12:30 - 13:30 | Lunch                           |
+| 13:30 - 15:30 | Conference                      |
+| 15:30 - 16:00 | Wrap-up and closing             |
 
 ## Confirmed speakers
 
@@ -136,6 +134,16 @@ in these sessions in order to keep things flowing:
   question is exceedingly brief it is at the chair's discretion as to
   whether a second question will be taken.
 
+## Social activities
+
+The SIG sessions on Monday (4th December) will be followed by an 
+informal get-together in a pub. Participants are encouraged to attend, 
+though you will have to buy your own drinks.
+
+There will also be a conference dinner on Tuesday evening (5th December),
+held in Robinson College. This will be provided for free for conference 
+participants.
+
 ## Code of conduct
 
 Bioconductor is built on the free and open exchange of scientific
@@ -167,8 +175,7 @@ from the conference venue.
 > Cambridge,  
 > CB3 9AN
 
-They are within five minutes walk of each other and are shown on the
-map below.
+These two locations are shown on the map below.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m20!1m8!1m3!1d4889.954127602008!2d0.1032596!3d52.2074643!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d52.204318199999996!2d0.105528!4m3!3m2!1d52.210200799999996!2d0.10314949999999999!5e0!3m2!1sen!2suk!4v1503576008230" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
