@@ -84,6 +84,8 @@ This is a tentative schedule that is subject to changes.
 Carey](http://www.dfhcc.harvard.edu/insider/member-detail/member/vincent-j-carey-phd/),
 Harvard Medical School.
 * [Kasper D. Hansen](http://www.hansenlab.org/), Johns Hopkins University.
+* [Leopold Parts](http://www.sanger.ac.uk/people/directory/parts-leopold),
+Wellcome Trust Sanger Institute.
 
 ## Special Interest Groups
 
