@@ -39,7 +39,7 @@ afternoon (see details below).
 
 Registation for the conference is **free**.
 
-* Registration opens: 1 September 2017 
+* Registration opens: 1 September 2017 - **[registration page](https://goo.gl/forms/SrinRVzffstJ9omP2)**
 * Registration closes: 1 November 2017
 * Confirmation emails: 6 November 2017
 
@@ -79,12 +79,11 @@ This is a tentative schedule that is subject to changes.
   Park Cancer Institute and Bioconductor project.
 * [Sara-Jane Dunn](https://www.microsoft.com/en-us/research/people/sarajand/),
   Microsoft Research.
-* [Vincent J.
-Carey](http://www.dfhcc.harvard.edu/insider/member-detail/member/vincent-j-carey-phd/),
-Harvard Medical School.
+* [Vincent J. Carey](http://www.dfhcc.harvard.edu/insider/member-detail/member/vincent-j-carey-phd/),
+  Harvard Medical School.
 * [Kasper D. Hansen](http://www.hansenlab.org/), Johns Hopkins University.
 * [Leopold Parts](http://www.sanger.ac.uk/people/directory/parts-leopold),
-Wellcome Trust Sanger Institute.
+  Wellcome Trust Sanger Institute.
 * Sophie Rabe, EMBL Heidelberg
 
 ## Special Interest Groups
@@ -94,8 +93,7 @@ topics of interest on Monday afternoon. We have booked rooms for the
 respective groups. The topics are set by one group leader, and are
 advertised in advance of the event on the conference page.
 
-To create a special interest
-group,
+To create a special interest group,
 [open an issue](https://github.com/Bioconductor/EuroBioc2017/issues)
 describing the topic. The issue title should start with `SIG:`
 followed by a short but descriptive title. Describe the topic in the
