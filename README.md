@@ -85,6 +85,8 @@ This is a tentative schedule that is subject to changes.
 * [Leopold Parts](http://www.sanger.ac.uk/people/directory/parts-leopold),
   Wellcome Trust Sanger Institute.
 * Sophie Rabe, EMBL Heidelberg
+* [Catalina Vallejos](https://www.ucl.ac.uk/statistics/people/catalina-vallejos),
+  Alan Turing Institute
 
 ## Special Interest Groups
 
