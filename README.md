@@ -87,7 +87,9 @@ This is a tentative schedule that is subject to changes.
 * Sophie Rabe, EMBL Heidelberg
 * [Catalina Vallejos](https://www.ucl.ac.uk/statistics/people/catalina-vallejos),
   Alan Turing Institute
-* [Gabriella Rustici](http://www.elixir-uk.org/team/gabriella-rustici)
+* [Gabriella Rustici](http://www.elixir-uk.org/team/gabriella-rustici),
+  University of Cambridge
+* [Levi Waldron](http://waldronlab.org), City University of New York.
 
 ## Special Interest Groups
 
