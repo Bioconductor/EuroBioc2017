@@ -84,12 +84,13 @@ This is a tentative schedule that is subject to changes.
 * [Kasper D. Hansen](http://www.hansenlab.org/), Johns Hopkins University.
 * [Leopold Parts](http://www.sanger.ac.uk/people/directory/parts-leopold),
   Wellcome Trust Sanger Institute.
-* Sophie Rabe, EMBL Heidelberg
+* Sophie Rabe, EMBL Heidelberg.
 * [Catalina Vallejos](https://www.ucl.ac.uk/statistics/people/catalina-vallejos),
-  Alan Turing Institute
+  Alan Turing Institute.
 * [Gabriella Rustici](http://www.elixir-uk.org/team/gabriella-rustici),
-  University of Cambridge
+  University of Cambridge.
 * [Levi Waldron](http://waldronlab.org), City University of New York.
+* Lukas Weber, University of Zurich.
 
 ## Special Interest Groups
 
