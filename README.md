@@ -84,7 +84,8 @@ This is a tentative schedule that is subject to changes.
 * [Kasper D. Hansen](http://www.hansenlab.org/), Johns Hopkins University.
 * [Leopold Parts](http://www.sanger.ac.uk/people/directory/parts-leopold),
   Wellcome Trust Sanger Institute.
-* Sophie Rabe, EMBL Heidelberg.
+* Sophie Rabe, EMBL Heidelberg: *Image based drug profiling in
+  co-cultures with EBImage*.
 * [Catalina Vallejos](https://www.ucl.ac.uk/statistics/people/catalina-vallejos),
   Alan Turing Institute.
 * [Gabriella Rustici](http://www.elixir-uk.org/team/gabriella-rustici),
