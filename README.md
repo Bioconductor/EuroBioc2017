@@ -87,7 +87,8 @@ This is a tentative schedule that is subject to changes.
 * Sophie Rabe, EMBL Heidelberg: *Image based drug profiling in
   co-cultures with EBImage*.
 * [Catalina Vallejos](https://www.ucl.ac.uk/statistics/people/catalina-vallejos),
-  Alan Turing Institute.
+  Alan Turing Institute: *BASiCS: dealing with technical and
+  biological noise in single-cell expression data*.
 * [Gabriella Rustici](http://www.elixir-uk.org/team/gabriella-rustici),
   University of Cambridge.
 * [Levi Waldron](http://waldronlab.org), City University of New York.
