@@ -80,7 +80,7 @@ This is a tentative schedule that is subject to changes.
 * [Sara-Jane Dunn](https://www.microsoft.com/en-us/research/people/sarajand/),
   Microsoft Research.
 * [Vincent J. Carey](http://www.dfhcc.harvard.edu/insider/member-detail/member/vincent-j-carey-phd/),
-  Harvard Medical School.
+  Harvard Medical School. *Semantically rich interfaces to remote large data*.
 * [Kasper D. Hansen](http://www.hansenlab.org/), Johns Hopkins University.
 * [Leopold Parts](http://www.sanger.ac.uk/people/directory/parts-leopold),
   Wellcome Trust Sanger Institute.
