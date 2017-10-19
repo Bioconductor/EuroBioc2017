@@ -90,8 +90,9 @@ This is a tentative schedule that is subject to changes.
   Alan Turing Institute: *BASiCS: dealing with technical and
   biological noise in single-cell expression data*.
 * [Gabriella Rustici](http://www.elixir-uk.org/team/gabriella-rustici),
-  University of Cambridge.
-* [Levi Waldron](http://waldronlab.org), City University of New York.
+  University of Cambridge. *Building bioinformatics training capacity and coordination in 
+Europe*
+* [Levi Waldron](http://waldronlab.org), City University of New York. *Multi-omics methods and resources for Bioconductor*
 * Lukas Weber, University of Zurich.
 
 ## Special Interest Groups
