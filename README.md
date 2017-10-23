@@ -78,7 +78,7 @@ This is a tentative schedule that is subject to changes.
 * [Martin Morgan](https://www.roswellpark.edu/martin-morgan), Roswell
   Park Cancer Institute and Bioconductor project.
 * [Sara-Jane Dunn](https://www.microsoft.com/en-us/research/people/sarajand/),
-  Microsoft Research.
+  Microsoft Research. *Applying Automated Reasoning to Uncover Genetic Programs*
 * [Vincent J. Carey](http://www.dfhcc.harvard.edu/insider/member-detail/member/vincent-j-carey-phd/),
   Harvard Medical School. *Semantically rich interfaces to remote large data*.
 * [Kasper D. Hansen](http://www.hansenlab.org/), Johns Hopkins University.
