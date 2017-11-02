@@ -39,8 +39,8 @@ afternoon (see details below).
 
 Registation for the conference is **free**.
 
-* Registration opens: 1 September 2017 - **[registration page](https://goo.gl/forms/SrinRVzffstJ9omP2)**
-* Registration closes: 1 November 2017
+* Registration opens: 1 September 2017 
+* Registration **closed**: 1 November 2017
 * Confirmation emails: 6 November 2017
 
 A confirmation email will be sent indicating if your registration was
