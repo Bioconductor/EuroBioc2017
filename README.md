@@ -57,20 +57,39 @@ This is a tentative schedule that is subject to changes.
 | 13:00 - 17:00 | SIG sessions                    | 
 | 18:00         | Informal get-together in a pub  |
 
-| Tue 5 Dec     |                                 |
-|---------------|---------------------------------|
-| 09:00 - 09:15 | Registration                    |
-| 09:15 - 09:30 | Welcome and introduction        |
-| 09:30 - 12:30 | Conference                      |
-| 12:30 - 13:30 | Lunch                           |
-| 13:30 - 17:30 | Conference                      |
-| 19:30         | Dinner in Robinson College      |
+| Tue 5 Dec     |                                   |
+|---------------|-----------------------------------|
+| 09:00 - 09:15 | Registration                      |
+| 09:15 - 09:30 | Welcome and introduction          |
+| 09:30 - 10:00 | *Martin Morgan*                   |
+| 10:00 - 10:30 | TBA                               |
+| 10:30 - 11:00 | Morning tea                       |
+| 11:00 - 11:30 | *Sara-Jane Dunn*                  |
+| 11:30 - 12:30 | Flashlight session I              |
+| 12:30 - 13:30 | Lunch                             |
+| 13:30 - 14:00 | *Leopold Parts*                   |
+| 14:00 - 14:30 | Flashlight session II             |
+| 14:30 - 15:00 | *Catalina Vallejos*               |
+| 15:30 - 16:00 | Afternoon tea                     |
+| 16:00 - 16:30 | *Kasper Hansen*                   |
+| 16:30 - 16:50 | SIG session summaries             |
+|               | Robinson College Bar (self-funded)|
+| 19:00 - 19:30 | Drinks at Robinson College        |
+| 19:30         | Dinner at Robinson College        |
+
 
 | Wed 6 Dec     |                                 |
 |---------------|---------------------------------|
-| 09:00 - 12:30 | Conference                      |
+| 09:00 - 09:30 | *Levi Waldron*                  |
+| 09:30 - 10:00 | *Sophie Rabe*                   |
+| 10:00 - 10:30 | *Lukas Weber*                   |
+| 10:30 - 11:00 | Morning tea                     |
+| 11:00 - 11:30 | *Vince Carey*                   |
+| 11:30 - 12:00 | Flashlight session III          |
 | 12:30 - 13:30 | Lunch                           |
-| 13:30 - 15:30 | Conference                      |
+| 13:30 - 14:00 | *Gabriella Rustici*             |
+| 14:00 - 15:00 | Flashlight session IV           |
+| 15:00 - 15:30 | Afternoon tea                   |
 | 15:30 - 16:00 | Wrap-up and closing             |
 
 ## Confirmed speakers
@@ -78,21 +97,21 @@ This is a tentative schedule that is subject to changes.
 * [Martin Morgan](https://www.roswellpark.edu/martin-morgan), Roswell
   Park Cancer Institute and Bioconductor project.
 * [Sara-Jane Dunn](https://www.microsoft.com/en-us/research/people/sarajand/),
-  Microsoft Research. *Applying Automated Reasoning to Uncover Genetic Programs*
+  Microsoft Research. *Applying automated reasoning to uncover genetic programs*.
 * [Vincent J. Carey](http://www.dfhcc.harvard.edu/insider/member-detail/member/vincent-j-carey-phd/),
   Harvard Medical School. *Semantically rich interfaces to remote large data*.
 * [Kasper D. Hansen](http://www.hansenlab.org/), Johns Hopkins University.
 * [Leopold Parts](http://www.sanger.ac.uk/people/directory/parts-leopold),
   Wellcome Trust Sanger Institute.
-* Sophie Rabe, EMBL Heidelberg: *Image based drug profiling in
+* Sophie Rabe, EMBL Heidelberg. *Image based drug profiling in
   co-cultures with EBImage*.
 * [Catalina Vallejos](https://www.ucl.ac.uk/statistics/people/catalina-vallejos),
-  Alan Turing Institute: *BASiCS: dealing with technical and
+  Alan Turing Institute. *BASiCS: dealing with technical and
   biological noise in single-cell expression data*.
 * [Gabriella Rustici](http://www.elixir-uk.org/team/gabriella-rustici),
   University of Cambridge. *Building bioinformatics training capacity and coordination in 
-Europe*
-* [Levi Waldron](http://waldronlab.org), City University of New York. *Multi-omics methods and resources for Bioconductor*
+Europe*.
+* [Levi Waldron](http://waldronlab.org), City University of New York. *Multi-omics methods and resources for Bioconductor*.
 * Lukas Weber, University of Zurich.
 
 ## Special Interest Groups
