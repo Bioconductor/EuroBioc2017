@@ -54,7 +54,9 @@ This is a tentative schedule that is subject to changes.
 
 | Mon 4 Dec     |                                 |
 |---------------|---------------------------------|
-| 13:00 - 17:00 | SIG sessions                    | 
+| 13:00 - 15:00 | SIG sessions                    | 
+| 15:00 - 15:30 | Afternoon tea                   | 
+| 15:30 - 17:00 | SIG sessions                    | 
 | 18:00         | Informal get-together in a pub  |
 
 | Tue 5 Dec     |                                   |
