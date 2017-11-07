@@ -104,7 +104,7 @@ This is a tentative schedule that is subject to changes.
   Harvard Medical School. *Semantically rich interfaces to remote large data*.
 * [Kasper D. Hansen](http://www.hansenlab.org/), Johns Hopkins University.
 * [Leopold Parts](http://www.sanger.ac.uk/people/directory/parts-leopold),
-  Wellcome Trust Sanger Institute. *Deep learning for microscopy images*
+  Wellcome Trust Sanger Institute. *Deep learning for microscopy images*.
 * Sophie Rabe, EMBL Heidelberg. *Image based drug profiling in
   co-cultures with EBImage*.
 * [Catalina Vallejos](https://www.ucl.ac.uk/statistics/people/catalina-vallejos),
@@ -114,7 +114,7 @@ This is a tentative schedule that is subject to changes.
   University of Cambridge. *Building bioinformatics training capacity and coordination in 
 Europe*.
 * [Levi Waldron](http://waldronlab.org), City University of New York. *Multi-omics methods and resources for Bioconductor*.
-* Lukas Weber, University of Zurich.
+* Lukas Weber, University of Zurich. *Statistical methods for differential discovery in high-dimensional cytometry data*.
 
 ## Special Interest Groups
 
