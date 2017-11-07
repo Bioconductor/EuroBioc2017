@@ -97,7 +97,7 @@ This is a tentative schedule that is subject to changes.
 ## Confirmed speakers
 
 * [Martin Morgan](https://www.roswellpark.edu/martin-morgan), Roswell
-  Park Cancer Institute and Bioconductor project.
+  Park Cancer Institute and Bioconductor project. *New approaches to the analysis and comprehension of high-throughput genomic data*.
 * [Sara-Jane Dunn](https://www.microsoft.com/en-us/research/people/sarajand/),
   Microsoft Research. *Applying automated reasoning to uncover genetic programs*.
 * [Vincent J. Carey](http://www.dfhcc.harvard.edu/insider/member-detail/member/vincent-j-carey-phd/),
