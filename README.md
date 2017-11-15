@@ -70,8 +70,8 @@ This is a tentative schedule that is subject to changes.
 | 11:30 - 12:30 | Flashlight session I              |
 | 12:30 - 13:30 | Lunch                             |
 | 13:30 - 14:00 | *Leopold Parts*                   |
-| 14:00 - 14:30 | Flashlight session II             |
-| 14:30 - 15:00 | *Catalina Vallejos*               |
+| 14:00 - 14:30 | *Catalina Vallejos*               |
+| 14:30 - 15:30 | Flashlight session II             |
 | 15:30 - 16:00 | Afternoon tea                     |
 | 16:00 - 16:30 | *Kasper Hansen*                   |
 | 16:30 - 16:50 | SIG session summaries             |
