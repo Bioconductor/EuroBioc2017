@@ -90,9 +90,10 @@ This is a tentative schedule that is subject to changes.
 | 11:30 - 12:00 | Flashlight session III          |
 | 12:30 - 13:30 | Lunch                           |
 | 13:30 - 14:00 | *Gabriella Rustici*             |
-| 14:00 - 15:00 | Flashlight session IV           |
-| 15:00 - 15:30 | Afternoon tea                   |
-| 15:30 - 16:00 | Wrap-up and closing             |
+| 14:00 - 14:15 | *Thomas Ingraham*               |
+| 14:15 - 15:30 | Flashlight session IV           |
+| 15:30 - 16:00 | Afternoon tea                   |
+| 16:00 - 16:30 | Wrap-up and closing             |
 
 ## Confirmed speakers
 
