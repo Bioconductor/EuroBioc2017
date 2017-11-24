@@ -117,6 +117,35 @@ Europe*.
 * [Levi Waldron](http://waldronlab.org), City University of New York. *Multi-omics methods and resources for Bioconductor*.
 * Lukas Weber, University of Zurich. *Statistical methods for differential discovery in high-dimensional cytometry data*.
 
+## Flashlight Talks (session allocations to be finalised)
+
+- Constantin Ahlmann-Eltze, University Heidelberg
+- Kaur Alasoo, University of Tartu
+- Simon Anders, University of Heidelberg
+- Robert Castelo, Pompeu Fabra University
+- Laure Cougnaud, OpenAnalytics
+- Oliver Crook, University of Cambridge
+- Bernet Gel, Germans Trias i Pujol Research Institute 
+- Sebastien Gibb, University Medicine Greifswald
+- Anna Gogleva, Sainsbury Laboratory Cambridge University
+- Sokratis Kariotis, University of Sheffield
+- Junyan Lu, European Molecular Biology Laboratory
+- Rachel Lyne, University of Cambridge
+- Federico Marini, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI)
+- Davis McCarthy, EMBL-EBI
+- Koustav Pal, IFOM - FIRC Institute of Molecular Oncology
+- Johannes Rainer, Eurac Research
+- Petr Smirnov, University of Toronto
+- Parham Solaimani, BeDataDrive
+- Charlotte Soneson, University of Zurich
+- Anna Sozanska, University of Cambridge
+- Rory Stark, University of Cambridge, CRUK Cambridge Institute
+- Jing Tang, University of Helsinki
+- Kirsten Van den Berge, Ghent University
+- Koen Van Hoorde, OpenAnalytics
+
+
+
 ## Special Interest Groups
 
 We invite participants to form groups dedicated to discuss or work on
