@@ -64,13 +64,13 @@ This is a tentative schedule that is subject to changes.
 | 09:00 - 09:15 | Registration                      |
 | 09:15 - 09:30 | Welcome and introduction          |
 | 09:30 - 10:00 | *Martin Morgan*                   |
-| 10:00 - 10:30 | TBA                               |
+| 10:00 - 10:30 | *Sara-Jane Dunn*                  |
 | 10:30 - 11:00 | Morning tea                       |
-| 11:00 - 11:30 | *Sara-Jane Dunn*                  |
+| 11:00 - 11:30 | *Catalina Vallejos*               |
 | 11:30 - 12:30 | Flashlight session I              |
 | 12:30 - 13:30 | Lunch                             |
 | 13:30 - 14:00 | *Leopold Parts*                   |
-| 14:00 - 14:30 | *Catalina Vallejos*               |
+| 14:00 - 14:30 | *Lori Shepherd*                   |
 | 14:30 - 15:30 | Flashlight session II             |
 | 15:30 - 16:00 | Afternoon tea                     |
 | 16:00 - 16:30 | *Kasper Hansen*                   |
@@ -116,6 +116,7 @@ This is a tentative schedule that is subject to changes.
 Europe*.
 * [Levi Waldron](http://waldronlab.org), City University of New York. *Multi-omics methods and resources for Bioconductor*.
 * Lukas Weber, University of Zurich. *Statistical methods for differential discovery in high-dimensional cytometry data*.
+* Lori Shepherd, Roswell Park Cancer Institute.
 
 ## Flashlight Talks (session allocations to be finalised)
 
