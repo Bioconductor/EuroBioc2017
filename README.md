@@ -143,10 +143,8 @@ Europe*.
 - Anna Sozanska, University of Cambridge
 - Rory Stark, University of Cambridge, CRUK Cambridge Institute
 - Jing Tang, University of Helsinki
-- Kirsten Van den Berge, Ghent University
-- Koen Van Hoorde, OpenAnalytics
-
-
+- Koen Van den Berge, Ghent University
+- Kirsten Van Hoorde, OpenAnalytics
 
 ## Special Interest Groups
 
