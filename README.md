@@ -87,7 +87,7 @@ This is a tentative schedule that is subject to changes.
 | 10:00 - 10:30 | *Lukas Weber*                   |
 | 10:30 - 11:00 | Morning tea                     |
 | 11:00 - 11:30 | *Vince Carey*                   |
-| 11:30 - 12:00 | Flashlight session III          |
+| 11:30 - 12:30 | Flashlight session III          |
 | 12:30 - 13:30 | Lunch                           |
 | 13:30 - 14:00 | *Gabriella Rustici*             |
 | 14:00 - 14:15 | *Thomas Ingraham*               |
