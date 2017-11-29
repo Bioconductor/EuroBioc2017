@@ -121,29 +121,40 @@ Europe*.
 
 ## Flashlight Talks (session allocations to be finalised)
 
+### Session I: Chair, Aaron Lun
+ 
 - Constantin Ahlmann-Eltze, University Heidelberg
-- Kaur Alasoo, University of Tartu
-- Simon Anders, University of Heidelberg
-- Robert Castelo, Pompeu Fabra University
-- Laure Cougnaud, OpenAnalytics
 - Oliver Crook, University of Cambridge
-- Bernet Gel, Germans Trias i Pujol Research Institute 
 - Sebastien Gibb, University Medicine Greifswald
 - Anna Gogleva, Sainsbury Laboratory Cambridge University
-- Sokratis Kariotis, University of Sheffield
+- Johannes Rainer, Eurac Research
+- Rory Stark, University of Cambridge, CRUK Cambridge Institute
+
+### Session II: Chair, Mark Dunning
+
+- Kaur Alasoo, University of Tartu
+- Robert Castelo, Pompeu Fabra University
+- Bernet Gel, Germans Trias i Pujol Research Institute 
 - Junyan Lu, European Molecular Biology Laboratory
-- Rachel Lyne, University of Cambridge
+- Petr Smirnov, University of Toronto
+- Jing Tang, University of Helsinki
+
+### Session III: Chair, Laurent Gatto
+
+- Simon Anders, University of Heidelberg
 - Federico Marini, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI)
 - Davis McCarthy, EMBL-EBI
-- Koustav Pal, IFOM - FIRC Institute of Molecular Oncology
-- Johannes Rainer, Eurac Research
-- Petr Smirnov, University of Toronto
-- Parham Solaimani, BeDataDrive
 - Charlotte Soneson, University of Zurich
-- Anna Sozanska, University of Cambridge
-- Rory Stark, University of Cambridge, CRUK Cambridge Institute
-- Jing Tang, University of Helsinki
 - Koen Van den Berge, Ghent University
+- Sokratis Kariotis, University of Sheffield
+
+### Session IV: Chair, Aaron Lun
+
+- Laure Cougnaud, OpenAnalytics
+- Rachel Lyne, University of Cambridge
+- Koustav Pal, IFOM - FIRC Institute of Molecular Oncology
+- Parham Solaimani, BeDataDrive
+- Anna Sozanska, University of Cambridge
 - Kirsten Van Hoorde, OpenAnalytics
 
 ## Special Interest Groups
