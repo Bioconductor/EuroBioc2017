@@ -119,7 +119,7 @@ Europe*.
 * Thomas Ingraham, F1000Research. *Updates on the Bioconductor Gateway*.
 * Lori Shepherd, Roswell Park Cancer Institute.
 
-## Flashlight Talks (session allocations to be finalised)
+## Flashlight Talks
 
 ### Session I: Chair, Aaron Lun
  
