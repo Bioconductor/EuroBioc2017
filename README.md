@@ -121,6 +121,29 @@ Europe*.
 
 ## Flashlight Talks
 
+Flashlights are intended to be short presentations covering a single
+topic e.g. a new package or a particular technical problem you have
+encountered. You may submit a title for a flashlight talk during
+the registration process. If your talk is selected, you will be notified 
+in a confirmation email. Selected talks will be advertised in advance
+of the event on the conference page.
+
+Each talk has been allotted 10 minutes and presenters
+should aim for approximately 6 slides.  The following rules will apply
+in these sessions in order to keep things flowing:
+
+* There will be a warning at 9 minutes.
+* Flashlight talks will be interrupted (possibly mid-syllable) at the
+  10 minute mark regardless of how many slides the speaker has left.
+* At this point the next talk will be set up on the computer, allowing
+  the next speaker to get going immediately that their time
+  begins. This means that the computer will not be available during
+  question(s).
+* Time has been allowed for one question per talk. If the first
+  question is exceedingly brief it is at the chair's discretion as to
+  whether a second question will be taken.
+
+
 ### Session I: Chair, Aaron Lun
  
 - Constantin Ahlmann-Eltze, University Heidelberg
@@ -181,29 +204,6 @@ by a chair (who may or may not be the person that suggested the
 topic) and a scribe. These outputs will be presented and discussed
 during the conference.
 
-## Flashlight talks
-
-Flashlights are intended to be short presentations covering a single
-topic e.g. a new package or a particular technical problem you have
-encountered. You may submit a title for a flashlight talk during
-the registration process. If your talk is selected, you will be notified 
-in a confirmation email. Selected talks will be advertised in advance
-of the event on the conference page.
-
-Each talk has been allotted 10 minutes and presenters
-should aim for approximately 6 slides.  The following rules will apply
-in these sessions in order to keep things flowing:
-
-* There will be a warning at 9 minutes.
-* Flashlight talks will be interrupted (possibly mid-syllable) at the
-  10 minute mark regardless of how many slides the speaker has left.
-* At this point the next talk will be set up on the computer, allowing
-  the next speaker to get going immediately that their time
-  begins. This means that the computer will not be available during
-  question(s).
-* Time has been allowed for one question per talk. If the first
-  question is exceedingly brief it is at the chair's discretion as to
-  whether a second question will be taken.
 
 ## Social activities
 
