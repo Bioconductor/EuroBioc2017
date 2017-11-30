@@ -137,12 +137,8 @@ in these sessions in order to keep things flowing:
   10 minute mark regardless of how many slides the speaker has left.
 * At this point the next talk will be set up on the computer, allowing
   the next speaker to get going immediately that their time
-  begins. This means that the computer will not be available during
-  question(s).
-* Time has been allowed for one question per talk. If the first
-  question is exceedingly brief it is at the chair's discretion as to
-  whether a second question will be taken.
-
+  begins. 
+* To keep on schedule, there will be no time for questions. Save your quesions until one of the tea breaks or lunch!
 
 ### Session I: Chair, Aaron Lun
  
