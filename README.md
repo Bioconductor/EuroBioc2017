@@ -11,8 +11,8 @@ output:
 * Conference webpage: [https://Bioconductor.github.io/EuroBioc2017/](https://Bioconductor.github.io/EuroBioc2017/)
 * Where: [Betty and Gordon Moore Library](http://moore.libraries.cam.ac.uk/location-maps), University of Cambridge, UK
 * When: Conference 5 - 6 December 2017 - Special interest group sessions 4 December
-* What: invited talks, flashlight presentations, special interest group sessions.
 * On twitter: [#EuroBioC2017](https://twitter.com/search?q=%23EuroBioC2017)
+* Public etherpad: https://public.etherpad-mozilla.org/p/2017-12-04-EuroBioC
 
 ## Introduction
 
@@ -141,24 +141,6 @@ in these sessions in order to keep things flowing:
 * To keep on schedule, there will be no time for questions. Save your quesions until one of the tea breaks or lunch!
 
 ### Session I: Chair, Aaron Lun
- 
-- Constantin Ahlmann-Eltze, University Heidelberg
-- Oliver Crook, University of Cambridge
-- Sebastien Gibb, University Medicine Greifswald
-- Anna Gogleva, Sainsbury Laboratory Cambridge University
-- Johannes Rainer, Eurac Research
-- Rory Stark, University of Cambridge, CRUK Cambridge Institute
-
-### Session II: Chair, Mark Dunning
-
-- Kaur Alasoo, University of Tartu
-- Robert Castelo, Pompeu Fabra University
-- Bernet Gel, Germans Trias i Pujol Research Institute 
-- Junyan Lu, European Molecular Biology Laboratory
-- Petr Smirnov, University of Toronto
-- Jing Tang, University of Helsinki
-
-### Session III: Chair, Laurent Gatto
 
 - Simon Anders, University of Heidelberg
 - Federico Marini, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI)
@@ -167,7 +149,7 @@ in these sessions in order to keep things flowing:
 - Koen Van den Berge, Ghent University
 - Sokratis Kariotis, University of Sheffield
 
-### Session IV: Chair, Aaron Lun
+### Session II: Chair, Mark Dunning
 
 - Laure Cougnaud, OpenAnalytics
 - Rachel Lyne, University of Cambridge
@@ -175,6 +157,25 @@ in these sessions in order to keep things flowing:
 - Parham Solaimani, BeDataDrive
 - Anna Sozanska, University of Cambridge
 - Kirsten Van Hoorde, OpenAnalytics
+
+### Session III: Chair, Laurent Gatto
+
+- Johannes Rainer, Eurac Research
+- Sebastien Gibb, University Medicine Greifswald
+- Constantin Ahlmann-Eltze, University Heidelberg
+- Anna Gogleva, Sainsbury Laboratory Cambridge University
+- Oliver Crook, University of Cambridge
+- Rory Stark, University of Cambridge, CRUK Cambridge Institute
+
+### Session IV: Chair, Aaron Lun
+
+- Kaur Alasoo, University of Tartu
+- Robert Castelo, Pompeu Fabra University
+- Bernet Gel, Germans Trias i Pujol Research Institute 
+- Junyan Lu, European Molecular Biology Laboratory
+- Petr Smirnov, University of Toronto
+- Jing Tang, University of Helsinki
+
 
 ## Special Interest Groups
 
