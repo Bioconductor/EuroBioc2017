@@ -107,7 +107,7 @@ Europe*.
 * [Levi Waldron](http://waldronlab.org), City University of New York. *Multi-omics methods and resources for Bioconductor*.
 * Lukas Weber, University of Zurich. *Statistical methods for differential discovery in high-dimensional cytometry data*.
 * Thomas Ingraham, F1000Research. *Updates on the Bioconductor Gateway*.
-* Lori Shepherd, Roswell Park Cancer Institute.
+* Lori Shepherd, Roswell Park Cancer Institute.  *Bioconductor packages for cached file management*.
 
 ## Flashlight Talks
 
