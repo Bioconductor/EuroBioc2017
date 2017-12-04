@@ -94,6 +94,7 @@ This is a tentative schedule that is subject to changes.
 * [Vincent J. Carey](http://www.dfhcc.harvard.edu/insider/member-detail/member/vincent-j-carey-phd/),
   Harvard Medical School. *Semantically rich interfaces to remote large data*.
 * [Kasper D. Hansen](http://www.hansenlab.org/), Johns Hopkins University.
+  *A large subset of the human epigenetic machinery demonstrates co-expression and severe intolerance to loss-of-function variation*.
 * [Leopold Parts](http://www.sanger.ac.uk/people/directory/parts-leopold),
   Wellcome Trust Sanger Institute. *Deep learning for microscopy images*.
 * Sophie Rabe, EMBL Heidelberg. *Image based drug profiling in
