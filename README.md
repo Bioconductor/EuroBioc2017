@@ -36,7 +36,7 @@ talks as well as contributed flashlight sessions. We will also have
 special interest group (SIG) sessions on Monday 4th December, in the
 afternoon (see details below).
 
-**Registation** for the conference is **free**.
+**Registation** for the conference is now closed.
 
 ## Schedule
 
