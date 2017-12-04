@@ -36,18 +36,7 @@ talks as well as contributed flashlight sessions. We will also have
 special interest group (SIG) sessions on Monday 4th December, in the
 afternoon (see details below).
 
-## Registration
-
-Registation for the conference is **free**.
-
-* Registration opens: 1 September 2017 
-* Registration **closed**: 1 November 2017
-* Confirmation emails: 6 November 2017
-
-A confirmation email will be sent indicating if your registration was
-successful. In the case of over-registration, the organisers will select
-participants. Priority will given to applicants who offer to present
-flashlight talks or are active members in the Bioconductor community.
+**Registation** for the conference is **free**.
 
 ## Schedule
 
