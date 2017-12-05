@@ -156,8 +156,8 @@ session. It's safest to use a PDF.
 - Johannes Rainer, Eurac Research
 - Sebastien Gibb, University Medicine Greifswald
 - Constantin Ahlmann-Eltze, University Heidelberg
-- Jing Tang, University of Helsinki
 - Oliver Crook, University of Cambridge
+- Jing Tang, University of Helsinki
 - Junyan Lu, European Molecular Biology Laboratory
 
 ### Session IV: Chair, Aaron Lun
