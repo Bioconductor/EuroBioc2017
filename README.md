@@ -137,7 +137,7 @@ session. It's safest to use a PDF.
 
 - Simon Anders, University of Heidelberg
 - Federico Marini, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI)
-- Davis McCarthy, EMBL-EBI
+- Parham Solaimani, BeDataDriven
 - Charlotte Soneson, University of Zurich
 - Koen Van den Berge, Ghent University
 - Sokratis Kariotis, University of Sheffield
@@ -147,7 +147,7 @@ session. It's safest to use a PDF.
 - Laure Cougnaud, OpenAnalytics
 - Rachel Lyne, University of Cambridge
 - Koustav Pal, IFOM - FIRC Institute of Molecular Oncology
-- Parham Solaimani, BeDataDrive
+- Davis McCarthy, EMBL-EBI
 - Anna Sozanska, University of Cambridge
 - Kirsten Van Hoorde, OpenAnalytics
 
