@@ -13,6 +13,7 @@ output:
 * Where: [Betty and Gordon Moore Library](http://moore.libraries.cam.ac.uk/location-maps), University of Cambridge, UK
 * When: Conference 5 - 6 December 2017 - Special interest group sessions 4 December
 * On twitter: [#EuroBioC2017](https://twitter.com/search?q=%23EuroBioC2017)
+* On youtube: [https://www.youtube.com/watch?v=d3PPpAapDVc](https://www.youtube.com/watch?v=d3PPpAapDVc)
 * Public etherpad: https://public.etherpad-mozilla.org/p/2017-12-04-EuroBioC
 
 ## Introduction
