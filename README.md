@@ -158,14 +158,14 @@ session. It's safest to use a PDF.
 - Constantin Ahlmann-Eltze, University Heidelberg
 - Jing Tang, University of Helsinki
 - Oliver Crook, University of Cambridge
-- Rory Stark, University of Cambridge, CRUK Cambridge Institute
+- Junyan Lu, European Molecular Biology Laboratory
 
 ### Session IV: Chair, Aaron Lun
 
 - Kaur Alasoo, University of Tartu
 - Robert Castelo, Pompeu Fabra University
 - Bernet Gel, Germans Trias i Pujol Research Institute 
-- Junyan Lu, European Molecular Biology Laboratory
+- Rory Stark, University of Cambridge, CRUK Cambridge Institute
 - Petr Smirnov, University of Toronto
 - Anna Gogleva, Sainsbury Laboratory Cambridge University
 
