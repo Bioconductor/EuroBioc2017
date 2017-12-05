@@ -141,7 +141,7 @@ session. It's safest to use a PDF.
 - Koen Van den Berge, Ghent University
 - Sokratis Kariotis, University of Sheffield
 
-### Session II: Chair, Mark Dunning
+### Session II: Chair, Rory Stark
 
 - Laure Cougnaud, OpenAnalytics
 - Rachel Lyne, University of Cambridge
@@ -155,7 +155,7 @@ session. It's safest to use a PDF.
 - Johannes Rainer, Eurac Research
 - Sebastien Gibb, University Medicine Greifswald
 - Constantin Ahlmann-Eltze, University Heidelberg
-- Anna Gogleva, Sainsbury Laboratory Cambridge University
+- Jing Tang, University of Helsinki
 - Oliver Crook, University of Cambridge
 - Rory Stark, University of Cambridge, CRUK Cambridge Institute
 
@@ -166,8 +166,7 @@ session. It's safest to use a PDF.
 - Bernet Gel, Germans Trias i Pujol Research Institute 
 - Junyan Lu, European Molecular Biology Laboratory
 - Petr Smirnov, University of Toronto
-- Jing Tang, University of Helsinki
-
+- Anna Gogleva, Sainsbury Laboratory Cambridge University
 
 ## Special Interest Groups
 
