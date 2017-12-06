@@ -14,7 +14,9 @@ output:
 * When: Conference 5 - 6 December 2017 - Special interest group sessions 4 December
 * On twitter: [#EuroBioC2017](https://twitter.com/search?q=%23EuroBioC2017)
 * Public etherpad: https://public.etherpad-mozilla.org/p/2017-12-04-EuroBioC
-* On youtube: [Tuesday 5/12](http://youtu.be/d3PPpAapDVc) and Wednesday 6/12.
+* On youtube: [Tuesday 5/12](http://youtu.be/d3PPpAapDVc) and
+  Wednesday 6/12
+  [http://youtu.be/dfYF0lAeV_Y](http://youtu.be/dfYF0lAeV_Y).
 
 ## Introduction
 
