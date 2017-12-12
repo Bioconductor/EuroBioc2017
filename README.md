@@ -15,8 +15,7 @@ output:
 * On twitter: [#EuroBioC2017](https://twitter.com/search?q=%23EuroBioC2017)
 * Public etherpad: https://public.etherpad-mozilla.org/p/2017-12-04-EuroBioC
 * On youtube: [Tuesday 5/12](http://youtu.be/d3PPpAapDVc) and
-  Wednesday 6/12
-  [http://youtu.be/dfYF0lAeV_Y](http://youtu.be/dfYF0lAeV_Y).
+  [Wednesday 6/12](http://youtu.be/dfYF0lAeV_Y).
 
 ## Introduction
 
@@ -41,9 +40,9 @@ afternoon (see details below).
 
 **Registation** for the conference is now closed.
 
-## Schedule
+## Final Schedule
 
-This is a tentative schedule that is subject to changes.
+Live video and slides can be found beside the speaker's name. Slides and videos for Flashlight talks are linked [below](file:///home/dunnin01/work/EuroBioc2017/docs/index.html#flashlight-talks). 
 
 | Mon 4 Dec     |                                 |
 |---------------|---------------------------------|
@@ -56,17 +55,17 @@ This is a tentative schedule that is subject to changes.
 |---------------|-----------------------------------|
 | 09:00 - 09:15 | Registration                      |
 | 09:15 - 09:30 | Welcome and introduction          |
-| 09:30 - 10:00 | *Martin Morgan*                   |
-| 10:00 - 10:30 | *Sara-Jane Dunn*                  |
+| 09:30 - 10:00 | *Martin Morgan*, [video](https://youtu.be/d3PPpAapDVc?t=1631), [slides](http://bioconductor.org/help/course-materials/2017/BioCEurope/ProjectStatus.pdf)                   |
+| 10:00 - 10:30 | *Sara-Jane Dunn*, [video](https://youtu.be/d3PPpAapDVc?t=4015)                  |
 | 10:30 - 11:00 | Morning tea                       |
-| 11:00 - 11:30 | *Catalina Vallejos*               |
+| 11:00 - 11:30 | *Catalina Vallejos*, [video](https://youtu.be/d3PPpAapDVc?t=7324)               |
 | 11:30 - 12:30 | Flashlight session I              |
 | 12:30 - 13:30 | Lunch                             |
-| 13:30 - 14:00 | *Leopold Parts*                   |
-| 14:00 - 14:30 | *Lori Shepherd*                   |
+| 13:30 - 14:00 | *Leopold Parts*, [video](https://youtu.be/d3PPpAapDVc?t=16054)                   |
+| 14:00 - 14:30 | *Lori Shepherd*, [video](https://youtu.be/d3PPpAapDVc?t=17930),[slides](https://docs.google.com/presentation/d/10kG9G_mJLR4paNZ7JS-BFEKaZEFJxYFsznPuxtUnzug/edit?usp=sharing)                   |
 | 14:30 - 15:30 | Flashlight session II             |
 | 15:30 - 16:00 | Afternoon tea                     |
-| 16:00 - 16:30 | *Kasper Hansen*                   |
+| 16:00 - 16:30 | *Kasper Hansen*, [video](https://youtu.be/d3PPpAapDVc?t=25109)                   |
 | 16:30 - 16:50 | SIG session summaries             |
 |               | Robinson College Bar (self-funded)|
 | 19:00 - 19:30 | Drinks at Robinson College        |
@@ -75,15 +74,15 @@ This is a tentative schedule that is subject to changes.
 
 | Wed 6 Dec     |                                 |
 |---------------|---------------------------------|
-| 09:00 - 09:30 | *Levi Waldron*                  |
-| 09:30 - 10:00 | *Sophie Rabe*                   |
-| 10:00 - 10:30 | *Lukas Weber*                   |
+| 09:00 - 09:30 | *Levi Waldron*, [video](https://youtu.be/dfYF0lAeV_Y?t=443),[slides]( https://www.slideshare.net/LeviWaldron/multiomics-methods-and-resources-for-bioconductor)                 |
+| 09:30 - 10:00 | *Sophie Rabe*, [video](https://youtu.be/dfYF0lAeV_Y?t=2485)                   |
+| 10:00 - 10:30 | *Lukas Weber*, [video](https://youtu.be/dfYF0lAeV_Y?t=3925)                   |
 | 10:30 - 11:00 | Morning tea                     |
-| 11:00 - 11:30 | *Vince Carey*                   |
+| 11:00 - 11:30 | *Vince Carey*, [video](https://youtu.be/dfYF0lAeV_Y?t=7462), [slides](https://docs.google.com/presentation/d/1I-5huskU2KJgjmSpsvDoc5Y7qi2o_85atNyi9FbNNRM/edit?usp=sharing)                   |
 | 11:30 - 12:30 | Flashlight session III          |
 | 12:30 - 13:30 | Lunch                           |
-| 13:30 - 14:00 | *Gabriella Rustici*             |
-| 14:00 - 14:15 | *Thomas Ingraham*               |
+| 13:30 - 14:00 | *Gabriella Rustici*, [video](https://youtu.be/dfYF0lAeV_Y?t=16402)             |
+| 14:00 - 14:15 | *Thomas Ingraham*, [video](https://youtu.be/dfYF0lAeV_Y?t=18078)               |
 | 14:15 - 15:30 | Flashlight session IV           |
 | 15:30 - 16:00 | Afternoon tea                   |
 | 16:00 - 16:30 | Wrap-up and closing             |
@@ -137,39 +136,39 @@ session. It's safest to use a PDF.
 
 ### Session I: Chair, Aaron Lun
 
-- Simon Anders, University of Heidelberg
-- Federico Marini, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI)
-- Parham Solaimani, BeDataDriven
-- Charlotte Soneson, University of Zurich
-- Koen Van den Berge, Ghent University
-- Sokratis Kariotis, University of Sheffield
+- Simon Anders, University of Heidelberg, [video](https://youtu.be/d3PPpAapDVc?t=9128)
+- Federico Marini, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), [video](https://youtu.be/d3PPpAapDVc?t=9835)
+- Parham Solaimani, BeDataDriven, [video](https://youtu.be/d3PPpAapDVc?t=10629), [slides](../flashlight/sessionI/2017-12-06_PSolaimani_BioC-Dev-EU.pdf)
+- Charlotte Soneson, University of Zurich, [video](https://youtu.be/d3PPpAapDVc?t=11098), [slides](../flashlight/sessionI/Soneson-EuroBioc-2017.pdf)
+- Koen Van den Berge, Ghent University, [video](https://youtu.be/d3PPpAapDVc?t=11539), [slides](../flashlight/sessionI/mainKoenVandenBerge.pdf)
+- Sokratis Kariotis, University of Sheffield, [video](https://youtu.be/d3PPpAapDVc?t=12165), [slides](../flashlight/sessionI/KariotisEBM.pdf)
 
 ### Session II: Chair, Rory Stark
 
-- Laure Cougnaud, OpenAnalytics
-- Rachel Lyne, University of Cambridge
-- Koustav Pal, IFOM - FIRC Institute of Molecular Oncology
-- Davis McCarthy, EMBL-EBI
-- Anna Sozanska, University of Cambridge
-- Kirsten Van Hoorde, OpenAnalytics
+- Laure Cougnaud, OpenAnalytics, [video](https://youtu.be/d3PPpAapDVc?t=19888), [slides](../flashlight/sessionII/esetVis_BioconductorConference.html)
+- Rachel Lyne, University of Cambridge, [video](https://youtu.be/d3PPpAapDVc?t=20645), [slides](../flashlight/sessionII/RachelLyne_Bioconductor_Dec2017.pdf)
+- Koustav Pal, IFOM - FIRC Institute of Molecular Oncology, [video](https://youtu.be/d3PPpAapDVc?t=21094),  [slides](../flashlight/sessionII/2017-12-06-BioconductorMeeting.pptx)
+- Davis McCarthy, EMBL-EBI, [video](https://youtu.be/d3PPpAapDVc?t=21657), [slides](../flashlight/sessionII/mccarthy_bioc_europe_2017_flashlight_talk.pdf)
+- Anna Sozanska, University of Cambridge, [video](https://youtu.be/d3PPpAapDVc?t=22184), [slides](../flashlight/sessionII/A.Sozanska-Spider.pdf)
+- Kirsten Van Hoorde, OpenAnalytics, [video](https://youtu.be/d3PPpAapDVc?t=22849), [slides](../flashlight/sessionII/PresentationBioconductorKvh.pdf)
 
 ### Session III: Chair, Laurent Gatto
 
-- Johannes Rainer, Eurac Research
-- Sebastien Gibb, University Medicine Greifswald
-- Constantin Ahlmann-Eltze, University Heidelberg
-- Oliver Crook, University of Cambridge
-- Jing Tang, University of Helsinki
-- Junyan Lu, European Molecular Biology Laboratory
+- Johannes Rainer, Eurac Research, [video](https://youtu.be/dfYF0lAeV_Y?t=9389), [slides](../flashlight/sessionIII/01_EuroBioc2017-MSnbase-beamer.pdf)
+- Sebastien Gibb, University Medicine Greifswald, [video](https://youtu.be/dfYF0lAeV_Y?t=10008), [slides](../flashlight/sessionIII/02_20171205-sgibb-topdownr.pdf)
+- Constantin Ahlmann-Eltze, University Heidelberg, [video](https://youtu.be/dfYF0lAeV_Y?t=10450),  [slides](../flashlight/sessionIII/03_171201-eurobioc_flash.pdf)
+- Oliver Crook, University of Cambridge, [video](https://youtu.be/dfYF0lAeV_Y?t=10928), [slides](../flashlight/sessionIII/04_OllyEuroBio01122017.pdf)
+- Jing Tang, University of Helsinki, [video](https://youtu.be/dfYF0lAeV_Y?t=11430), [slides](../flashlight/sessionIII/06_bioconductor_2017_Jing_Tang.pdf)
+- Junyan Lu, European Molecular Biology Laboratory, [video](https://youtu.be/dfYF0lAeV_Y?t=11853),  [slides](flashlight/sessionIII/05_EuroBioc_JunyanLu.pdf)
 
 ### Session IV: Chair, Aaron Lun
 
-- Kaur Alasoo, University of Tartu
-- Robert Castelo, Pompeu Fabra University
-- Bernet Gel, Germans Trias i Pujol Research Institute 
-- Rory Stark, University of Cambridge, CRUK Cambridge Institute
-- Petr Smirnov, University of Toronto
-- Anna Gogleva, Sainsbury Laboratory Cambridge University
+- Kaur Alasoo, University of Tartu, [video](https://youtu.be/dfYF0lAeV_Y?t=19337), [slides](../flashlight/sessionIV/alasoo-bioconductor_meeting_051217.pdf)
+- Robert Castelo, Pompeu Fabra University, [video](https://youtu.be/dfYF0lAeV_Y?t=19780), [slides](../flashlight/sessionIV/RobertCastelo.pdf)
+- Bernet Gel, Germans Trias i Pujol Research Institute , [video](https://youtu.be/dfYF0lAeV_Y?t=20303),  [slides](../flashlight/sessionIV/BernatGel_karyoploteR.pdf)
+- Rory Stark, University of Cambridge, CRUK Cambridge Institute, [video](https://youtu.be/dfYF0lAeV_Y?t=20769), [slides](../flashlight/sessionIV/BioC Euro Dev 2017 Stark.pdf)
+- Petr Smirnov, University of Toronto, [video](https://youtu.be/dfYF0lAeV_Y?t=21441), [slides](../flashlight/sessionIV/EuroBioC2017 – Flashlight Talk - Final.pdf)
+- Anna Gogleva, Sainsbury Laboratory Cambridge University, [video](https://youtu.be/dfYF0lAeV_Y?t=21941), [slides](../flashlight/sessionIV/20171206_BiocTalk_AnnaGogleva.pdf)
 
 ## Special Interest Groups
 
