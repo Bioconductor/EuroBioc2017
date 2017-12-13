@@ -138,14 +138,14 @@ session. It's safest to use a PDF.
 
 - Simon Anders, University of Heidelberg, [video](https://youtu.be/d3PPpAapDVc?t=9128)
 - Federico Marini, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), [video](https://youtu.be/d3PPpAapDVc?t=9835)
-- Parham Solaimani, BeDataDriven, [video](https://youtu.be/d3PPpAapDVc?t=10629), [slides](../flashlight/sessionI/2017-12-06_PSolaimani_BioC-Dev-EU.pdf)
-- Charlotte Soneson, University of Zurich, [video](https://youtu.be/d3PPpAapDVc?t=11098), [slides](../flashlight/sessionI/Soneson-EuroBioc-2017.pdf)
-- Koen Van den Berge, Ghent University, [video](https://youtu.be/d3PPpAapDVc?t=11539), [slides](../flashlight/sessionI/mainKoenVandenBerge.pdf)
-- Sokratis Kariotis, University of Sheffield, [video](https://youtu.be/d3PPpAapDVc?t=12165), [slides](../flashlight/sessionI/KariotisEBM.pdf)
+- Parham Solaimani, BeDataDriven, [video](https://youtu.be/d3PPpAapDVc?t=10629), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/2017-12-06_PSolaimani_BioC-Dev-EU.pdf)
+- Charlotte Soneson, University of Zurich, [video](https://youtu.be/d3PPpAapDVc?t=11098), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/Soneson-EuroBioc-2017.pdf)
+- Koen Van den Berge, Ghent University, [video](https://youtu.be/d3PPpAapDVc?t=11539), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/mainKoenVandenBerge.pdf)
+- Sokratis Kariotis, University of Sheffield, [video](https://youtu.be/d3PPpAapDVc?t=12165), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/KariotisEBM.pdf)
 
 ### Session II: Chair, Rory Stark
 
-- Laure Cougnaud, OpenAnalytics, [video](https://youtu.be/d3PPpAapDVc?t=19888), [slides](../flashlight/sessionII/esetVis_BioconductorConference.html)
+- Laure Cougnaud, OpenAnalytics, [video](https://youtu.be/d3PPpAapDVc?t=19888), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/esetVis_BioconductorConference.html)
 - Rachel Lyne, University of Cambridge, [video](https://youtu.be/d3PPpAapDVc?t=20645), [slides](../flashlight/sessionII/RachelLyne_Bioconductor_Dec2017.pdf)
 - Koustav Pal, IFOM - FIRC Institute of Molecular Oncology, [video](https://youtu.be/d3PPpAapDVc?t=21094),  [slides](../flashlight/sessionII/2017-12-06-BioconductorMeeting.pptx)
 - Davis McCarthy, EMBL-EBI, [video](https://youtu.be/d3PPpAapDVc?t=21657), [slides](../flashlight/sessionII/mccarthy_bioc_europe_2017_flashlight_talk.pdf)
