@@ -136,39 +136,39 @@ session. It's safest to use a PDF.
 
 ### Session I: Chair, Aaron Lun
 
-- Simon Anders, University of Heidelberg, [video](https://youtu.be/d3PPpAapDVc?t=9128)
-- Federico Marini, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), [video](https://youtu.be/d3PPpAapDVc?t=9835)
-- Parham Solaimani, BeDataDriven, [video](https://youtu.be/d3PPpAapDVc?t=10629), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/2017-12-06_PSolaimani_BioC-Dev-EU.pdf)
-- Charlotte Soneson, University of Zurich, [video](https://youtu.be/d3PPpAapDVc?t=11098), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/Soneson-EuroBioc-2017.pdf)
-- Koen Van den Berge, Ghent University, [video](https://youtu.be/d3PPpAapDVc?t=11539), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/mainKoenVandenBerge.pdf)
-- Sokratis Kariotis, University of Sheffield, [video](https://youtu.be/d3PPpAapDVc?t=12165), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/KariotisEBM.pdf)
+- Simon Anders, University of Heidelberg, *LinkedCharts and rlc*, [video](https://youtu.be/d3PPpAapDVc?t=9128)
+- Federico Marini, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), * Interactivity and reproducibility: RNA-seq analysis, the ideal way*, [video](https://youtu.be/d3PPpAapDVc?t=9835)
+- Parham Solaimani, BeDataDriven, *Renjin*, [video](https://youtu.be/d3PPpAapDVc?t=10629), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/2017-12-06_PSolaimani_BioC-Dev-EU.pdf)
+- Charlotte Soneson, University of Zurich, *Towards unified quality verification of synthetic count data with countsim QC*, [video](https://youtu.be/d3PPpAapDVc?t=11098), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/Soneson-EuroBioc-2017.pdf)
+- Koen Van den Berge, Ghent University, *Unlocking RNA-seq tools for zero inflation and single cell applications using ZINB-WaVE observation weight*, [video](https://youtu.be/d3PPpAapDVc?t=11539), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/mainKoenVandenBerge.pdf)
+- Sokratis Kariotis, University of Sheffield, *From gene expression to pathway fingerprints and correlation networks*,  [video](https://youtu.be/d3PPpAapDVc?t=12165), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/KariotisEBM.pdf)
 
 ### Session II: Chair, Rory Stark
 
-- Laure Cougnaud, OpenAnalytics, [video](https://youtu.be/d3PPpAapDVc?t=19888), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/esetVis_BioconductorConference.html)
-- Rachel Lyne, University of Cambridge, [video](https://youtu.be/d3PPpAapDVc?t=20645), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/RachelLyne_Bioconductor_Dec2017.pdf)
-- Koustav Pal, IFOM - FIRC Institute of Molecular Oncology, [video](https://youtu.be/d3PPpAapDVc?t=21094),  [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/2017-12-06-BioconductorMeeting.pptx)
-- Davis McCarthy, EMBL-EBI, [video](https://youtu.be/d3PPpAapDVc?t=21657), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/mccarthy_bioc_europe_2017_flashlight_talk.pdf)
-- Anna Sozanska, University of Cambridge, [video](https://youtu.be/d3PPpAapDVc?t=22184), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/A.Sozanska-Spider.pdf)
-- Kirsten Van Hoorde, OpenAnalytics, [video](https://youtu.be/d3PPpAapDVc?t=22849), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/PresentationBioconductorKvh.pdf)
+- Laure Cougnaud, OpenAnalytics, *Easy unsupervised visualizations of high dimensional genomic data via dimensional reduction methods with the esetVis package*, [video](https://youtu.be/d3PPpAapDVc?t=19888), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/esetVis_BioconductorConference.html)
+- Rachel Lyne, University of Cambridge, * InterMineR: R Client Library for InterMine*, [video](https://youtu.be/d3PPpAapDVc?t=20645), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/RachelLyne_Bioconductor_Dec2017.pdf)
+- Koustav Pal, IFOM - FIRC Institute of Molecular Oncology, *HiCLegos - store, retrieve and plot Hi-C data*,  [video](https://youtu.be/d3PPpAapDVc?t=21094),  [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/2017-12-06-BioconductorMeeting.pptx)
+- Davis McCarthy, EMBL-EBI, *Slalom: scalable and versatile factor analysis for single-cell RNA-seq*, [video](https://youtu.be/d3PPpAapDVc?t=21657), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/mccarthy_bioc_europe_2017_flashlight_talk.pdf)
+- Anna Sozanska, University of Cambridge, *SpideR: R package for Search, Integration and Retrieval of Big Data*, [video](https://youtu.be/d3PPpAapDVc?t=22184), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/A.Sozanska-Spider.pdf)
+- Kirsten Van Hoorde, OpenAnalytics, *How to automate analysis workflow via reproducible reports (using an R template package) for recurrent standardized data: a case study*, [video](https://youtu.be/d3PPpAapDVc?t=22849), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/PresentationBioconductorKvh.pdf)
 
 ### Session III: Chair, Laurent Gatto
 
-- Johannes Rainer, Eurac Research, [video](https://youtu.be/dfYF0lAeV_Y?t=9389), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIII/01_EuroBioc2017-MSnbase-beamer.pdf)
-- Sebastien Gibb, University Medicine Greifswald, [video](https://youtu.be/dfYF0lAeV_Y?t=10008), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIII/02_20171205-sgibb-topdownr.pdf)
-- Constantin Ahlmann-Eltze, University Heidelberg, [video](https://youtu.be/dfYF0lAeV_Y?t=10450),  [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIII/03_171201-eurobioc_flash.pdf)
-- Oliver Crook, University of Cambridge, [video](https://youtu.be/dfYF0lAeV_Y?t=10928), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIII/04_OllyEuroBio01122017.pdf)
-- Jing Tang, University of Helsinki, [video](https://youtu.be/dfYF0lAeV_Y?t=11430), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIII/06_bioconductor_2017_Jing_Tang.pdf)
-- Junyan Lu, European Molecular Biology Laboratory, [video](https://youtu.be/dfYF0lAeV_Y?t=11853),  [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIII/05_EuroBioc_JunyanLu.pdf)
+- Johannes Rainer, Eurac Research, *Enabling analysis of large scale metabolomics/proteomics data: on-the-fly data access in MSnbase*, [video](https://youtu.be/dfYF0lAeV_Y?t=9389), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIII/01_EuroBioc2017-MSnbase-beamer.pdf)
+- Sebastien Gibb, University Medicine Greifswald, *topdownr - Systematic Optimisation of Protein Sequencing for Top-Down Proteomics*,  [video](https://youtu.be/dfYF0lAeV_Y?t=10008), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIII/02_20171205-sgibb-topdownr.pdf)
+- Constantin Ahlmann-Eltze, University Heidelberg, *Differential Detection for Label-free Mass Spec Data*,  [video](https://youtu.be/dfYF0lAeV_Y?t=10450),  [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIII/03_171201-eurobioc_flash.pdf)
+- Oliver Crook, University of Cambridge, *A Bayesian Framework for Spatial Proteomics*, [video](https://youtu.be/dfYF0lAeV_Y?t=10928), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIII/04_OllyEuroBio01122017.pdf)
+- Jing Tang, University of Helsinki, *Modelling drug combinations for cancer*, [video](https://youtu.be/dfYF0lAeV_Y?t=11430), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIII/06_bioconductor_2017_Jing_Tang.pdf)
+- Junyan Lu, European Molecular Biology Laboratory, *Workflow for high-throughput drug sensitivity screen*, [video](https://youtu.be/dfYF0lAeV_Y?t=11853),  [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIII/05_EuroBioc_JunyanLu.pdf)
 
 ### Session IV: Chair, Aaron Lun
 
-- Kaur Alasoo, University of Tartu, [video](https://youtu.be/dfYF0lAeV_Y?t=19337), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIV/alasoo-bioconductor_meeting_051217.pdf)
-- Robert Castelo, Pompeu Fabra University, [video](https://youtu.be/dfYF0lAeV_Y?t=19780), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIV/RobertCastelo.pdf)
-- Bernet Gel, Germans Trias i Pujol Research Institute , [video](https://youtu.be/dfYF0lAeV_Y?t=20303),  [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIV/BernatGel_karyoploteR.pdf)
-- Rory Stark, University of Cambridge, CRUK Cambridge Institute, [video](https://youtu.be/dfYF0lAeV_Y?t=20769), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIV/BioC Euro Dev 2017 Stark.pdf)
-- Petr Smirnov, University of Toronto, [video](https://youtu.be/dfYF0lAeV_Y?t=21441), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIV/EuroBioC2017 – Flashlight Talk - Final.pdf)
-- Anna Gogleva, Sainsbury Laboratory Cambridge University, [video](https://youtu.be/dfYF0lAeV_Y?t=21941), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIV/20171206_BiocTalk_AnnaGogleva.pdf)
+- Kaur Alasoo, University of Tartu, *Annotation preprocessing improves the detection of genetic effects on transcript usage*, [video](https://youtu.be/dfYF0lAeV_Y?t=19337), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIV/alasoo-bioconductor_meeting_051217.pdf)
+- Robert Castelo, Pompeu Fabra University, *The analysis of genetic interactions from gene expression data*, [video](https://youtu.be/dfYF0lAeV_Y?t=19780), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIV/RobertCastelo.pdf)
+- Bernet Gel, Germans Trias i Pujol Research Institute , *KaryoploteR plot any data on any genome*,  [video](https://youtu.be/dfYF0lAeV_Y?t=20303),  [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIV/BernatGel_karyoploteR.pdf)
+- Rory Stark, University of Cambridge, CRUK Cambridge Institute, *In development: a package for deep learning of omics data*,  [video](https://youtu.be/dfYF0lAeV_Y?t=20769), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIV/BioC Euro Dev 2017 Stark.pdf)
+- Petr Smirnov, University of Toronto, *PharmacoGx: Analysis of High Throughput Pharmacogenomics Studies*, [video](https://youtu.be/dfYF0lAeV_Y?t=21441), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIV/EuroBioC2017 – Flashlight Talk - Final.pdf)
+- Anna Gogleva, Sainsbury Laboratory Cambridge University, *SecretSanta: flexible pipelines for automated prediction of secreted proteins*,  [video](https://youtu.be/dfYF0lAeV_Y?t=21941), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionIV/20171206_BiocTalk_AnnaGogleva.pdf)
 
 ## Special Interest Groups
 
