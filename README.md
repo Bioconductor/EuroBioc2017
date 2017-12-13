@@ -137,7 +137,7 @@ session. It's safest to use a PDF.
 ### Session I: Chair, Aaron Lun
 
 - Simon Anders, University of Heidelberg, *LinkedCharts and rlc*, [video](https://youtu.be/d3PPpAapDVc?t=9128)
-- Federico Marini, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), * Interactivity and reproducibility: RNA-seq analysis, the ideal way*, [video](https://youtu.be/d3PPpAapDVc?t=9835)
+- Federico Marini, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), *Interactivity and reproducibility: RNA-seq analysis, the ideal way*, [video](https://youtu.be/d3PPpAapDVc?t=9835)
 - Parham Solaimani, BeDataDriven, *Renjin*, [video](https://youtu.be/d3PPpAapDVc?t=10629), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/2017-12-06_PSolaimani_BioC-Dev-EU.pdf)
 - Charlotte Soneson, University of Zurich, *Towards unified quality verification of synthetic count data with countsim QC*, [video](https://youtu.be/d3PPpAapDVc?t=11098), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/Soneson-EuroBioc-2017.pdf)
 - Koen Van den Berge, Ghent University, *Unlocking RNA-seq tools for zero inflation and single cell applications using ZINB-WaVE observation weight*, [video](https://youtu.be/d3PPpAapDVc?t=11539), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionI/mainKoenVandenBerge.pdf)
@@ -146,7 +146,7 @@ session. It's safest to use a PDF.
 ### Session II: Chair, Rory Stark
 
 - Laure Cougnaud, OpenAnalytics, *Easy unsupervised visualizations of high dimensional genomic data via dimensional reduction methods with the esetVis package*, [video](https://youtu.be/d3PPpAapDVc?t=19888), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/esetVis_BioconductorConference.html)
-- Rachel Lyne, University of Cambridge, * InterMineR: R Client Library for InterMine*, [video](https://youtu.be/d3PPpAapDVc?t=20645), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/RachelLyne_Bioconductor_Dec2017.pdf)
+- Rachel Lyne, University of Cambridge, *InterMineR: R Client Library for InterMine*, [video](https://youtu.be/d3PPpAapDVc?t=20645), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/RachelLyne_Bioconductor_Dec2017.pdf)
 - Koustav Pal, IFOM - FIRC Institute of Molecular Oncology, *HiCLegos - store, retrieve and plot Hi-C data*,  [video](https://youtu.be/d3PPpAapDVc?t=21094),  [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/2017-12-06-BioconductorMeeting.pptx)
 - Davis McCarthy, EMBL-EBI, *Slalom: scalable and versatile factor analysis for single-cell RNA-seq*, [video](https://youtu.be/d3PPpAapDVc?t=21657), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/mccarthy_bioc_europe_2017_flashlight_talk.pdf)
 - Anna Sozanska, University of Cambridge, *SpideR: R package for Search, Integration and Retrieval of Big Data*, [video](https://youtu.be/d3PPpAapDVc?t=22184), [slides](https://github.com/Bioconductor/EuroBioc2017/raw/master/flashlight/sessionII/A.Sozanska-Spider.pdf)
